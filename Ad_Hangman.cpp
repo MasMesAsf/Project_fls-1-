@@ -152,8 +152,6 @@ int main(){
         //return 0;     
 }
 
-
-
 void play(string secret_word)
 {
     game2:
